@@ -19,7 +19,7 @@ import org.springframework.stereotype.Component;
 @Configuration
 @PropertySource("classpath:application.properties")
 public class SendMessage {
-
+	// TODO no pilla los valores
 	@Value("${telegram.token}")
 	private String telegramToken;
 	
