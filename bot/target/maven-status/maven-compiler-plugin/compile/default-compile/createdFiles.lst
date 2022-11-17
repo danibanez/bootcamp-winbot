@@ -1,0 +1,8 @@
+com\bot\bot\github\service\GithubServiceImpl.class
+com\bot\bot\BotApplication.class
+com\bot\bootcamp\dto\TeamData.class
+com\bot\bootcamp\dto\BootcampTask.class
+com\bot\bootcamp\service\TelegramService.class
+com\bot\bootcamp\dto\BootcampTeamData.class
+com\bot\bot\github\controller\GithubController.class
+com\bot\bot\github\service\GithubService.class
